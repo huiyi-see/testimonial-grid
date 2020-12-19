@@ -2,6 +2,8 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
+This design can be viewed via the website: https://testimonial-grid-orpin.vercel.app. 
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
